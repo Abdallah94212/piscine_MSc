@@ -1,3 +1,0 @@
-# Ajoute ici les dependances au fil des exercices, ex:
-# numpy
-# pandas
