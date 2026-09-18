@@ -60,9 +60,5 @@ def dessiner_spirale():
 # dessiner_spirale()
 
 # ============ Gaming ============
-# voir le dossier hangman/main.py (pip install pygame)
-# Task 3.1 : creer le dossier hangman (fait)
-# Task 3.2 : main.py, init pygame, fenetre 600x600
-# Task 3.3 : boucle principale + gestion des evenements (fermeture)
-# Task 3.4 : charger et afficher une image de fond
-# Task 3.5 : fonction qui dessine un bonhomme allumette
+# voir day09.py (pip install pygame) : init pygame, fenetre 600x600,
+# boucle d'evenements, image de fond, bonhomme allumette
